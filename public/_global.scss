@@ -1,0 +1,45 @@
+h2 {
+    font-size: 30px;
+    color: $mainBlack;
+    margin: 0;
+    padding: 0.5rem 1rem;
+    border: 2px solid $white;
+    border-bottom-color: $red;
+}
+
+.myWork h2,
+.contactMe h2 {
+    text-align: end;
+}
+
+h3 {
+    font-size: 28px;
+    margin: 0;
+}
+
+p {
+    font-size: 20px;
+    color: $grey;
+}
+
+a {
+    text-decoration: none;
+    color: $grey;
+}
+
+a.reference {
+    text-decoration: underline;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+strong {
+    color: $mainBlack;
+}
+
+section {
+    margin: 5rem 0;
+}

@@ -1,0 +1,22 @@
+.skillTags {
+    padding: 10rem 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+.skillTags > div {
+    flex: 1 1 100px;
+    margin: 0 3rem;
+}
+
+.skillTags i {
+    font-size: 70px;
+    color: $grey;
+}
+
+.skillTags p {
+    color: $mainBlack;
+    font-weight: bolder;
+}

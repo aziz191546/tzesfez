@@ -1,0 +1,29 @@
+//about me
+main {
+    margin-top: 10rem;
+}
+
+.aboutMeMain {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5rem 0;
+}
+
+.aboutMeMainProfile {
+    align-self: center;
+    flex-basis: 50%;
+    text-align: right;
+}
+
+.goodreads {
+    color: #382110;
+}
+
+.aboutMeImg {
+    flex-basis: 35%;
+    align-self: center;
+}
+
+.aboutMeImg img {
+    box-shadow: 23px 25px 38px 0px rgba(181,187,219,1);
+}
